@@ -1,0 +1,5 @@
+run: b64_l4_h4_e256_bs16_it2000_do01
+tokens_per_iter: 40960
+best_val_loss: 1.506
+duration_sec: 499.59
+exit_code: 0
